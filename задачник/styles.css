@@ -1,0 +1,16 @@
+body{
+font-family: 'Arial' }
+
+h1{
+display: grid;
+place-items: center;
+font-size: 35px }
+
+ul{
+font-size: 16px }
+
+span{
+color: green }
+
+.span1{
+color: grey }
